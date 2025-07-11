@@ -1,7 +1,7 @@
 # Chopsticks Arcade Game
 Arcade game implemented in lucid based on the "Chopsticks" game done on Alchitry Labs.
 
-A demo video of the final working prototype has been uploaded (ChopChopDemo).
+A demo video of the final working prototype has been uploaded @ https://youtu.be/7hnxDFvAF5c
 
 **Poster of our final prototype**
 
